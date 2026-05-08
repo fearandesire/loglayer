@@ -46,7 +46,7 @@
     "@internal/tsconfig": "workspace:*",
     "@loglayer/transport-simple-pretty-terminal": "workspace:*",
     "@types/node": "25.2.3",
-    "hono": ">=4.0.0",
+    "hono": ">=4.12.16",
     "loglayer": "workspace:*",
     "serialize-error": "13.0.1",
     "tsdown": "0.20.3",
@@ -55,7 +55,7 @@
     "vitest": "4.0.18"
   },
   "peerDependencies": {
-    "hono": ">=4.0.0",
+    "hono": ">=4.12.16",
     "loglayer": "*"
   },
   "bugs": "https://github.com/loglayer/loglayer/issues",
