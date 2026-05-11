@@ -51,7 +51,7 @@
     "@opentelemetry/instrumentation-express": "0.52.0",
     "@opentelemetry/instrumentation-http": "0.204.0",
     "@opentelemetry/sdk-logs": "0.204.0",
-    "@opentelemetry/sdk-node": "0.204.0",
+    "@opentelemetry/sdk-node": "0.217.0",
     "@opentelemetry/sdk-trace-node": "2.1.0",
     "@opentelemetry/semantic-conventions": "1.37.0",
     "@types/node": "25.2.3",
