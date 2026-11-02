@@ -52,7 +52,7 @@
   "devDependencies": {
     "@internal/tsconfig": "workspace:*",
     "@types/node": "25.2.3",
-    "dd-trace": "5.71.0",
+    "dd-trace": "5.131.1",
     "express": "5.2.1",
     "loglayer": "workspace:*",
     "tsdown": "0.20.3",
